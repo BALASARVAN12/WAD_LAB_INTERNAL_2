@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 100px;
+}
+.logo{
+    padding-left: 10px;
+}
+h1{
+    text-align: center;  
+}
+.navbar{
+    color: aliceblue;
+    height: 110px;
+    padding-top: 10px;
+    padding-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+p{
+    font-size: 25px;
+    color: black;
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+    margin-right: 30px;
+}
